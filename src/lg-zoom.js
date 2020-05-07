@@ -185,7 +185,7 @@
                     actualSize(event, $image, index);
                 }
 
-                event.preventDefault();
+                // event.preventDefault();
             });
 
         });
